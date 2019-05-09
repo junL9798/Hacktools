@@ -36,8 +36,8 @@ def help_info():
     2.All:python scan_port.py ip -a;
     3.Custom:python scan_port.py ip -p port1,port2,port3;
     4.Custom by file:python scan_port.py ip -f 'filepath';
-    4.--help || -h :print help infomation;
-    5.--version || -v:print version infomation."""
+    5.--help || -h :print help infomation;
+    6.--version || -v:print version infomation."""
 
 #输出版本信息
 def version_info():
