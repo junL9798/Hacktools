@@ -2,6 +2,7 @@
 使用python2编写
 
 使用方法：
+
 1.default: 扫描指定ip的默认（脚本自带）端口号
 python2.exe scan_port.py ip
 
